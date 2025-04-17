@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/suraj upadhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj upadhye" height="30" width="40" /></a>
 <a href="https://instagram.com/suraj__upadhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suraj__upadhye" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suraj_upadhye" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suraj_upadhye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suraj_upadhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suraj_upadhye" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/suraj33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj33" height="30" width="40" /></a>
 </p>
 
