@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently studying **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Suraj-Upadhye](https://github.com/Suraj-Upadhye)
 
 - 💬 Ask me about **anything about me**
